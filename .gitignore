@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Custom
+/data*
+/reports*
+/DEG_output*
+/paths.txt
